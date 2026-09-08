@@ -1,4 +1,4 @@
-# Welcome to ○팀
+# Welcome to E26-SW99-07
 
 ## 1️⃣ 팀원 소개
 
